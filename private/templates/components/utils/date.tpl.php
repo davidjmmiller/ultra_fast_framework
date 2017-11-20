@@ -1,0 +1,1 @@
+<p>El Tiempo Actual es: <?php echo $params['date'];?></p>
